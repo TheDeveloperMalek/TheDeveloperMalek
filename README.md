@@ -165,19 +165,6 @@ I believe good software is not measured by how complex it is, but by how effecti
 
 ---
 
-### APIs & Architecture
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50"/><br/>
-      GraphQL
-    </td>
-  </tr>
-</table>
-
----
-
 ## GitHub Stats
 
 <div align="center">
