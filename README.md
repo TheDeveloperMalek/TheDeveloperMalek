@@ -1,11 +1,12 @@
 <!-- Hero Section -->
+
 <h1 align="center">Hey 👋 I'm Malek</h1>
 
 <p align="center">
   <b>Full-Stack Software Engineer</b><br/>
   Building business systems, administrative platforms,<br/>
   and scalable web applications with a focus on<br/>
-  maintainability and pragmatic software design.
+  maintainability, architecture, and pragmatic software design.
 </p>
 
 <p align="center">
@@ -16,57 +17,72 @@
 <hr/>
 
 <!-- About Me -->
+
 ## About Me
 
-I enjoy building software that solves real operational problems.
+I enjoy building software that solves real operational and business problems.
 
-Most of my work revolves around business systems, administrative platforms, and applications that need to remain maintainable as requirements evolve over time.
+Most of my work revolves around business systems, administrative platforms, and applications that need to remain practical, maintainable, and adaptable as requirements evolve.
 
-I primarily work with NestJS, React, Angular, and TypeScript, while also exploring ASP.NET Core as part of my ongoing backend journey.
+I primarily work with **React, Next.js, Angular, TypeScript, Node.js, and NestJS**, with **ASP.NET Core and the .NET ecosystem** as my current backend focus.
+
+I'm particularly interested in **software architecture, system design, Clean Architecture, Design Patterns, CQRS, and building systems that teams can understand, maintain, and evolve over time.**
 
 My engineering philosophy is simple:
 
-- Prefer simplicity over unnecessary complexity
-- Build for maintainability first
-- Focus on business value before technology trends
-- Choose tools based on project requirements, not personal attachment
-
-I'm particularly interested in software architecture, system design, and finding practical ways to turn real-world workflows into reliable software systems.
+* Prefer simplicity over unnecessary complexity
+* Build for maintainability and long-term adaptability
+* Let business requirements drive technical decisions
+* Choose technologies based on the problem being solved
+* Focus on practical solutions rather than technology trends
 
 ---
 
 ## What I Enjoy Building
 
-🚗 Operational systems that help businesses manage day-to-day activities efficiently.
+🚗 **Operational Systems**
 
-🍽 Restaurant platforms that combine management tools, customer feedback, and operational workflows.
+Applications that help businesses manage day-to-day activities, workflows, services, permissions, and reporting.
 
-📊 Administrative applications that organize information, automate processes, and simplify decision-making.
+🍽️ **Restaurant Platforms**
 
-🔐 Permission-driven systems where security, roles, and business rules are first-class citizens.
+Management tools, customer feedback systems, surveys, and operational workflows designed around real business needs.
 
-⚙️ Software that remains maintainable as requirements evolve and businesses grow.
+📊 **Administrative Applications**
+
+Systems that organize information, automate processes, simplify workflows, and support better decision-making.
+
+🔐 **Permission-Driven Systems**
+
+Applications where authentication, authorization, roles, permissions, and business rules are central to the architecture.
+
+⚙️ **Maintainable Business Software**
+
+Software designed to remain understandable and adaptable as requirements change and businesses grow.
 
 ---
 
 ## Featured Work
 
 ### 🚗 Parking & Services Management Platform
+
 A business-oriented platform designed to manage parking operations, vehicle services, permissions, reporting, and day-to-day workflows.
 
-This project challenged me to think beyond implementation details and focus on how software can support real operational processes while remaining maintainable as requirements evolve.
+The project focuses on translating real operational processes into a practical software system while keeping the architecture maintainable and adaptable as requirements evolve.
 
 ---
 
-### 🍽 Restaurant Management & Survey Platform
-A system that combines restaurant operations with customer feedback collection and survey management.
+### 🍽️ Restaurant Management & Survey Platform
 
-The goal was to simplify internal workflows while helping businesses make better decisions through structured feedback.
+A system combining restaurant operations with customer feedback collection and survey management.
+
+The goal is to simplify internal workflows while providing structured feedback that can help businesses understand customer experience and make better decisions.
 
 ---
 
 ### 📱 Digital Menu Solutions
-Projects focused on creating flexible and user-friendly menu experiences that are easy to manage and maintain over time.
+
+Projects focused on creating flexible, responsive, and user-friendly digital menu experiences that are easy to manage and maintain over time.
 
 ---
 
@@ -74,21 +90,22 @@ Projects focused on creating flexible and user-friendly menu experiences that ar
 
 I believe good software is not measured by how complex it is, but by how effectively it solves problems and adapts to change.
 
-- Simplicity scales better than unnecessary complexity
-- Maintainability is a feature, not an afterthought
-- Business requirements should drive technical decisions
-- Every technology is a tool, not an identity
-- The best architecture is the one a team can understand, maintain, and evolve
+* **Simplicity over unnecessary complexity**
+* **Maintainability as a first-class concern**
+* **Business requirements before technology trends**
+* **Architecture that teams can understand and evolve**
+* **Technology as a tool, not an identity**
 
 ---
 
-## Currently Exploring
+## Currently Focusing On
 
-- ASP.NET Core as part of my backend journey
-- Designing systems that remain maintainable as they grow
-- Translating business workflows into software systems
-- Practical system design over theoretical complexity
-- Building applications that teams can understand and evolve
+* Deepening my expertise in **ASP.NET Core and the .NET ecosystem**
+* Improving backend architecture and system design
+* Applying **Clean Architecture, Design Patterns, and CQRS** to practical systems
+* Translating real-world business workflows into reliable software
+* Building applications that remain maintainable as they grow
+* Exploring practical approaches to scalable enterprise applications
 
 ---
 
@@ -98,6 +115,14 @@ I believe good software is not measured by how complex it is, but by how effecti
 
 <table align="center">
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50"/><br/>
+      ASP.NET Core
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/><br/>
+      C#
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50"/><br/>
       NestJS
@@ -109,10 +134,6 @@ I believe good software is not measured by how complex it is, but by how effecti
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/><br/>
       TypeScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50"/><br/>
-      ASP.NET Core
     </td>
   </tr>
 </table>
