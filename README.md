@@ -120,7 +120,7 @@ I believe good software is not measured by how complex it is, but by how effecti
       ASP.NET Core
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/960px-C_Sharp_Logo_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" height="50"/><br/>
       C#
     </td>
     <td align="center">
